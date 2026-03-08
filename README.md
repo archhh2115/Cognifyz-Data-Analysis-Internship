@@ -35,4 +35,4 @@ The goal is to explore restaurant data and extract insights using Python.
 - Observed price range patterns across restaurants.
 
 ## Author
-[Your Name]
+Archana Utage
